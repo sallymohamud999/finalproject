@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'fakenewsdetector'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_95CA17852672465990FB287318D56A86 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_455924F1A0AA4A0E909FA723DD674194 }}
